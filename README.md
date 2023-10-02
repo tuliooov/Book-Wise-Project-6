@@ -31,5 +31,6 @@ Project that contains login via github and google, as well as listing books and 
 
 ## Deployed
 
-- 
+- https://book-wise-project-6.vercel.app/
+
 
